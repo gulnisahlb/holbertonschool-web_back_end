@@ -1,0 +1,2 @@
+// this is commtn 
+db.school.find()
